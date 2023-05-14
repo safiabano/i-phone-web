@@ -1,0 +1,182 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+list-style-type: none;
+text-decoration: none;
+
+
+}
+header{
+    position: sticky;
+   top: 0px;
+   
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(90, 87, 87);
+    padding: 13px;
+    justify-content: space-evenly;
+    
+
+   
+
+}
+li a{
+    color: rgb(224, 218, 218);
+}
+.a-image{
+    margin-top: 20px;
+    width: 1300px;
+    height: 600px;
+}
+.center{
+    text-align: center;
+  margin-top: 13px;
+  color: black;
+}
+.position{
+    /* border: 2px solid black; */
+    width:400px;
+  position:absolute ;
+  bottom: 300px;
+  left: 400px;
+  text-align: center;
+
+}
+.position h1, p {
+    color: white;
+    text-align: center;
+}
+.position h1{
+    font-size: 60px;
+}
+.position p{
+    font-size: 40px;
+}
+.position a{
+    
+    font-size: 25px;
+    color: blue;
+    text-decoration: none;
+}
+.b-image{
+    width: 1300px;
+    padding-top:110px ;
+
+}
+.sec-para{
+    text-align: center;
+    /* border: 2px solid black; */
+width: 300px;
+position: relative;
+bottom: 850px;
+left: 500px;
+line-height: 60px;
+
+}
+.sec-para p{
+    color: black;
+    font-size: 30px;
+    /* line-height: 50px; */
+}
+.sec-para h2{
+    font-size: 50px;
+    /* line-height: 50px; */
+}
+.sticky{
+    z-index: 999;
+}
+.third{
+    background-color: black;
+    height: 800px;
+    position: relative;
+    bottom: 180px;
+ 
+    
+
+}
+.abc{
+    margin-left: 500px;
+    margin-top: 180px;
+    width: 300px;
+}
+.work{
+    /* border: 2px solid rgb(87, 83, 77); */
+    width: 300px;
+    position: relative;
+    bottom: 600px;
+    left: 500px;
+    line-height: 10px;
+}
+.one{
+    color: white;
+    margin-left: 80px;
+    
+}
+.moto{
+    color: white;
+    font-size: 40px;
+
+}
+.same{
+    color: blue;
+    margin-left: 40px;
+}
+.main{
+    display: flex;
+    /* border: 2px solid black; */
+    height: 600px;
+    width: 1400px;
+    
+
+}
+.efg{
+    /* border: 6px solid green; */
+    width: 100%;
+}
+.hij{
+    /* border: 6px solid grey; */
+    width: 100%;
+}
+.five{
+    width: 100%;
+}
+.six{
+    width: 100%;
+    height: 100%;
+}
+#a{
+   padding-top: 30px;
+   /* border: 2px solid goldenrod; */
+   width: 1300px;
+   height: 600px;
+   display: flex;
+}
+.seven{
+    /* border: 2px solid green; */
+    width: 100%;
+   
+}
+.eight{
+    /* border: 2px solid blueviolet; */
+    width: 100%;
+    
+}
+.a-one{
+    width: 100%;
+    height: 100%;
+}
+.a-two{
+    width: 100%;
+}
+/* .last{
+    color: black;
+}
+.left1{
+    color: black;
+} */
+.container img{
+    width: 100%;
+}
